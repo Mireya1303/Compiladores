@@ -172,7 +172,7 @@ public class GeneradorCodigo {
     public String generaCodigo(){
     	FileWriter fichero = null;
         PrintWriter pw = null;
-        String path = "C:\\workspace\\Prueba\\src\\";
+        String path = "C:\Users\mirey\Documents\GitHub\Compiladores\src\practicatres\C_\workspace\Prueba\src";
         try {
                 fichero = new FileWriter( path + "CodigoGenerado.java" );
                 pw = new PrintWriter(fichero);

@@ -19,7 +19,7 @@ public class ProbadorLl1 {
     public static void main(String[] args) {
         EntradaSalida inOut = new EntradaSalida();
         String path = 
-            "/Users/sdelaot/NetbeansProjects/compilador/src/practicacinco/";
+            "/Users/mirey/Documents/GitHub/Compiladores/src/practicacinco/";
         System.out.println( "Entrada: " );
         String entrada = inOut.leerArchivo( path + "entrada.txt" );
         

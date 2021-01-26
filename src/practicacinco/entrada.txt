@@ -1,0 +1,6 @@
+E->E+T\n
+E->T\n
+T->T*F\n
+T->F\n
+F->i\n
+F->(E)

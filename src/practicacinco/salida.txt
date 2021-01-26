@@ -1,0 +1,26 @@
+Gramatica:
+No Terminal inicial: E
+Terminales: [+, \, n, -, >, *, i, (, )]
+No terminales: [E, A]
+Producciones:
+
+E->[E+T\nE]
+
+No Terminal inicial: E
+Terminales: [+, \, n]
+No terminales: [E, A]
+Producciones:
+
+A->[+T\nEA, &]
+E->[A]
+
+PRIMERO(A) = [&, +]
+PRIMERO(E) = [&, +]
+
+SIGUIENTE(A) = [$, +]
+SIGUIENTE(E) = [$, +]
+
+Tabla M:
+A: {$=A->&, +=A->+T\nEA, \=, n=}
+E: {$=E->A, &=E->A, +=E->A, \=, n=}
+

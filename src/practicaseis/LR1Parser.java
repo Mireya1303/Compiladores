@@ -32,7 +32,7 @@ public class LR1Parser {
         Parser parser = new Parser();
         parser.inicializar();
         String path = 
-                "/Users/sdelaot/NetbeansProjects/compilador/src/practicaseis/";
+                "C:/Users/mirey/Documents/GitHub/Compiladores/src/practicaseis/";
         ArrayList<Simbolo> input =  read( path + "entrada.txt");  // Read the input file\        
         parser.parsear(input);  
     }

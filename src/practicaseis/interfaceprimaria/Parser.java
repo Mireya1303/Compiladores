@@ -50,12 +50,12 @@ public class Parser {
         alfabeto = new ArrayList<>();
         try {
             String path = 
-                "C:/Users/mirey/Documents/GitHub/Compiladores/src/practicaseis";
-            System.out.println( "A VER" );
+                "C:/Users/mirey/Documents/GitHub/Compiladores/src/practicaseis/";
+            //System.out.println( "A VER" );
             BufferedReader bufferreader = 
                     new BufferedReader(
                             new FileReader(path + "gramatica.txt"));
-            System.out.println( "PASO" );
+            //System.out.println( "PASO" );
             // lee la primera liena (indicando el numero del simbolo inicial)
             // de las producciones ) 
             linea = bufferreader.readLine(); 

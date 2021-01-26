@@ -14,8 +14,6 @@ package practicauno;
  * Esta clase representa un par de objetos de cualquier clase.
  * @param <A> Clase del primer elemento del par.
  * @param <B> Clase del segundo elemento del par.
- * @author Cristian Aceval
- * @author Victor Franco
  */
 public class Par<A extends Comparable<A>, B extends Comparable<B>>
                         implements Comparable<Par<A, B>> {

@@ -52,7 +52,7 @@ import utileria.Alfabeto;
  */
 /**
  *
- * @author sdelaot
+ * @author kdelaof
  */
 public class ProbadorDeAutomata {
     public static void main(String[] args) {

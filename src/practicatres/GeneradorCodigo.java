@@ -73,7 +73,6 @@ public class GeneradorCodigo {
                 "\n" +
                 "/**\n" +
                 " *\n" +
-                " * @author cristian,victor \n" +
                 " */\n" +
                 "public class CodigoGenerado {\n" +
                 "\n" +

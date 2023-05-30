@@ -1,0 +1,7 @@
+C:\Users\mirey\Documents\ESCOM\Compiladores\Practica1\AFNyAFD\AFNyAFD\bin\Debug\AFNyAFD.exe.config
+C:\Users\mirey\Documents\ESCOM\Compiladores\Practica1\AFNyAFD\AFNyAFD\bin\Debug\AFNyAFD.exe
+C:\Users\mirey\Documents\ESCOM\Compiladores\Practica1\AFNyAFD\AFNyAFD\bin\Debug\AFNyAFD.pdb
+C:\Users\mirey\Documents\ESCOM\Compiladores\Practica1\AFNyAFD\AFNyAFD\obj\Debug\AFNyAFD.csprojResolveAssemblyReference.cache
+C:\Users\mirey\Documents\ESCOM\Compiladores\Practica1\AFNyAFD\AFNyAFD\obj\Debug\AFNyAFD.csproj.CoreCompileInputs.cache
+C:\Users\mirey\Documents\ESCOM\Compiladores\Practica1\AFNyAFD\AFNyAFD\obj\Debug\AFNyAFD.exe
+C:\Users\mirey\Documents\ESCOM\Compiladores\Practica1\AFNyAFD\AFNyAFD\obj\Debug\AFNyAFD.pdb

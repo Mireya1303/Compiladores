@@ -1,0 +1,7 @@
+C:\Users\mirey\Documents\ESCOM\Compiladores\Practica2\ArbolBinB\ArbolBinB\bin\Debug\ArbolBinB.exe.config
+C:\Users\mirey\Documents\ESCOM\Compiladores\Practica2\ArbolBinB\ArbolBinB\bin\Debug\ArbolBinB.exe
+C:\Users\mirey\Documents\ESCOM\Compiladores\Practica2\ArbolBinB\ArbolBinB\bin\Debug\ArbolBinB.pdb
+C:\Users\mirey\Documents\ESCOM\Compiladores\Practica2\ArbolBinB\ArbolBinB\obj\Debug\ArbolBinB.csprojResolveAssemblyReference.cache
+C:\Users\mirey\Documents\ESCOM\Compiladores\Practica2\ArbolBinB\ArbolBinB\obj\Debug\ArbolBinB.csproj.CoreCompileInputs.cache
+C:\Users\mirey\Documents\ESCOM\Compiladores\Practica2\ArbolBinB\ArbolBinB\obj\Debug\ArbolBinB.exe
+C:\Users\mirey\Documents\ESCOM\Compiladores\Practica2\ArbolBinB\ArbolBinB\obj\Debug\ArbolBinB.pdb
